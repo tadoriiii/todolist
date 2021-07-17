@@ -95,6 +95,7 @@ const Page =() => {
 
 export default Page;
 
+// styles
 const Container = styled.div`
     width : 512px;
     height : 768px;
