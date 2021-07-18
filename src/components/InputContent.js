@@ -53,4 +53,7 @@ const Resister = styled.button`
     border: 1px solid black;
     color : black;
     letter-spacing: 10px;
+    &:hover{
+        background-color: hotpink;
+    }
 `;
